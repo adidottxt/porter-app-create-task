@@ -68,7 +68,7 @@ In terms of fonts, I just used Geist and Geist Mono given these are flexible eno
 
 The components themselves could also use some more love in terms of figuring out specific padding, spacing, etc. but I think they do a good enough job for this. Ditto with the various states; I'd like to ideally work on thinking through focus, hover states, etc.
 
-### Things I'd have liked to do if I had more time
+### A list of things I'd have liked to do if I had more time
 
 #### Performance optimizations
 
