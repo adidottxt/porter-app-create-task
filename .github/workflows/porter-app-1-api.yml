@@ -20,7 +20,7 @@ jobs:
               env:
                 PORTER_APP_NAME: api
                 PORTER_CLUSTER: "1"
-                PORTER_DEPLOYMENT_TARGET_ID: 62b0656f-fa8b-471c-90da-5e97d898df7c
+                PORTER_DEPLOYMENT_TARGET_ID: 958eee3c-1030-46bf-8002-1ee513dc66d7
                 PORTER_HOST: https://adi.withporter.run
                 PORTER_PROJECT: "1"
                 PORTER_TAG: ${{ steps.vars.outputs.sha_short }}
